@@ -64,9 +64,6 @@ CC_LICENSE = {
 
 DEFAULT_PAGINATION = 10
 
-DISQUS_SITENAME = "flex-pelican"
-ADD_THIS_ID = 'ra-55adbb025d4f7e55'
-
 STATIC_PATHS = ['images', 'extra']
 
 CUSTOM_CSS = 'static/custom.css'
