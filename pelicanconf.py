@@ -48,7 +48,7 @@ MENUITEMS = (('Archives', '/archives.html'),
 
 LINKS = (
     ('twitter', 'https://twitter.com/chaos_jetzt'),
-    ('mastodon', 'https://chaos.social'),
+    ('mastodon', 'https://chaos.social/@jetzt'),
     ('Code of Conduct', 'https://md.ctfl.space/s/chaos.jetzt-coc')
     
     
