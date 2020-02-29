@@ -44,7 +44,7 @@ AUTHOR_FEED_RSS = None
 MENUITEMS = (('FAQ', '/pages/chaosjetzt-faq.html'),
              ('Code of Conduct', 'https://md.ctfl.space/s/chaos.jetzt-coc'),
              ('twitter', 'https://twitter.com/chaos_jetzt'),
-             ('mastodon', 'https://chaos.social')
+             ('mastodon', 'https://chaos.social/@jetzt'),
 )
 
 LINKS = (
@@ -69,4 +69,3 @@ CUSTOM_CSS = 'static/custom.css'
 USE_LESS = True
 
 MAIN_MENU = True
-
