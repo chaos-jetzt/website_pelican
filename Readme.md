@@ -11,7 +11,7 @@ go through questions
 ```
 pelican-themes --install Flex_angepasst/
 pelican content -t Flex_angepasst -s pelicanconf.py
-
+```
 
 
 To check the website:
