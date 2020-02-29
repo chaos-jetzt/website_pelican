@@ -2,23 +2,17 @@
 ## use
 ### Setup
 ```
-pip install pelican[Markdown]
-
-pelican-themes --install Flex_angepasst/
-pelican-quickstart
+pip install -r requirements.txt
 ```
-go through questions
-
 
 ### Generate html
 ```
-pelican content -t Flex_angepasst -s pelicanconf.py
+make html
 ```
-
 
 To check the website:
 ```
-pelican --listen
+make serve
 ```
 then visit http://localhost:8000/
 
