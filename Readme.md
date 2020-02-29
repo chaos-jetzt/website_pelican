@@ -31,7 +31,10 @@ Automated publishing possible, check Pelican documentation
 [Theme used](https://github.com/alexandrevicenzi/Flex) (little changes)
 
 
+## write more content
 
+- blogposts in folder 'articles', will automatically appear as newest blogpost
+- general pages in folder 'pages', will automatically appear as link in sidebar
 
 ## to do
 - more articles
