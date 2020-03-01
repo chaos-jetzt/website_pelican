@@ -16,7 +16,7 @@ PYGMENTS_STYLE = 'monokai'
 
 ROBOTS = 'index, follow'
 
-THEME = 'Flex_angepasst'
+THEME = 'clean-blog'
 PATH = 'content'
 
 TIMEZONE = 'Europe/Paris'
@@ -64,7 +64,6 @@ CC_LICENSE = {
 
 DEFAULT_PAGINATION = 10
 
-DISQUS_SITENAME = "flex-pelican"
 ADD_THIS_ID = 'ra-55adbb025d4f7e55'
 
 STATIC_PATHS = ['images', 'extra']
