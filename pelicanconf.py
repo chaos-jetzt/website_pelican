@@ -41,21 +41,12 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 
-MENUITEMS = (('Archives', '/archives.html'),
-             ('Categories', '/categories.html'),
-             ('Tags', '/tags.html'),
+MENUITEMS = (('FAQ', '/faq.html'),
+             ('Code of Conduct', 'https://md.ctfl.space/s/chaos.jetzt-coc'),
+             ('twitter', 'https://twitter.com/chaos_jetzt'),
+             ('mastodon', 'https://chaos.social'),
              ('Impressum', 'https://chaostreff-flensburg.de/impressum/'),
              ('Datenschutz', 'https://chaostreff-flensburg.de/datenschutz/')
-)
-
-
-LINKS = (
-    ('twitter', 'https://twitter.com/chaos_jetzt'),
-    ('mastodon', 'https://chaos.social'),
-    ('Code of Conduct', 'https://md.ctfl.space/s/chaos.jetzt-coc')
-    
-    
-
 )
 
 
