@@ -4,7 +4,7 @@
     <!-- Page Header -->
     <!-- Set your background image for this header on the line below. -->
     {% if HEADER_COVER %}
-        <header class="intro-header" style="background-image: url('{{ HEADER_COVER }}')">
+        <header class="intro-header" style="background-image: url({{ HEADER_COVER }})">
     {% else %}
         <header class="intro-header" style="background-image: url('{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/chaos.png')">
     {% endif %}
@@ -31,7 +31,7 @@
                 </h2>
             </a>
             {% if article.summary %}
-                {{ article.summary|truncate(140) }}
+                {{ article.summary }}
             {% endif %}
             <p class="post-meta">Posted by
                 {% for author in article.authors %}
