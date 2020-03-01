@@ -22,6 +22,9 @@ PATH = 'content'
 TIMEZONE = 'Europe/Paris'
 
 
+# HEADER_COVER = '/home/janepie/PycharmProjects/chaos-jetzt_website/img'
+
+
 
 # Default theme language.
 I18N_TEMPLATES_LANG = 'en'
