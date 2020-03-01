@@ -22,7 +22,7 @@ PATH = 'content'
 TIMEZONE = 'Europe/Paris'
 
 
-# HEADER_COVER = '/home/janepie/PycharmProjects/chaos-jetzt_website/img'
+HEADER_COVER = '/images/Header.jpg'
 
 
 
