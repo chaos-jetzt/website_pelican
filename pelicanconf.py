@@ -41,7 +41,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 
-MENUITEMS = (('FAQ', '/faq.html'),
+MENUITEMS = (('FAQ', '/pages/chaosjetzt-faq.html'),
              ('Code of Conduct', 'https://md.ctfl.space/s/chaos.jetzt-coc'),
              ('twitter', 'https://twitter.com/chaos_jetzt'),
              ('mastodon', 'https://chaos.social')
