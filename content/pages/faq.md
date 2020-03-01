@@ -21,3 +21,7 @@ Bei unseren Geekends hast du die Möglichkeit dich dezidiert ein Wochenende lang
 
 **Was ist die Chaoswelt?**  
 Alles was mit dem [Chaos Computer Club e.V.](altes.chaos.jetzt), einzelnen Erfas, Chaostreff oder anderen Chaos Nahen Spaces zu tun hat. Auch bekannt von Veranstaltungen wie Chaos Computer Congress, der GPN, Easterhegg, GPN, MRMCD, etc....
+
+
+
+Bild CC by SA Tobias Moeritz
