@@ -1,6 +1,7 @@
 Title: chaos.jetzt FAQ
 Date: 2020-03-01 13:37
 Category: Jetzt
+HEADER_COVER: /images/Tastatur.jpg
 
 Hier gibt es Fragen und Antworten zu die Fragen rund um chaos.jetzt. Du darst uns gerne auch tooten oder eine E-Mail schreiben.
 
@@ -20,3 +21,7 @@ Bei unseren Geekends hast du die Möglichkeit dich dezidiert ein Wochenende lang
 
 **Was ist die Chaoswelt?**  
 Alles was mit dem [Chaos Computer Club e.V.](altes.chaos.jetzt), einzelnen Erfas, Chaostreff oder anderen Chaos Nahen Spaces zu tun hat. Auch bekannt von Veranstaltungen wie Chaos Computer Congress, der GPN, Easterhegg, GPN, MRMCD, etc....
+
+
+
+Bild CC by SA Tobias Moeritz

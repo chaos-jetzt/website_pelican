@@ -1,9 +1,9 @@
 Title: Junges Chaos bildet Banden
-Date: 2020-03-01 10:00
+Date: 2019-09-01 10:00
 Category: Vorstellung
-Author: janepie
+Author: scammo
 
-## Wir sind junge Menschen im Chaos-Umfeld - komm und mach mit!
+ Wir sind junge Menschen im Chaos-Umfeld - komm und mach mit!
 
 * [Newsletter abonnieren](https://mailtrain.chaostreff-flensburg.de/subscription/BJ416YaES) (E-Mail Adresse reicht)
 * Folge uns auf [Twitter](https://twitter.com/chaos_jetzt) oder [Mastodon](https://chaos.social/@jetzt)

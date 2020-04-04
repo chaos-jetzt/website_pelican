@@ -28,7 +28,7 @@ Automated publishing possible, check Pelican documentation
 ## write more content
 
 - blogposts in folder 'articles', will automatically appear as newest blogpost
-- general pages in folder 'pages', will automatically appear as link in sidebar
+- general pages in folder 'pages', have to be added in MENUITEMS in pelicanconf.py for a link
 
 ## to do
 - more articles
