@@ -47,6 +47,12 @@ MENUITEMS = (('FAQ', '/pages/chaosjetzt-faq.html'),
              ('mastodon', 'https://chaos.social')
 )
 
+LINKS = (
+    ('twitter', 'https://twitter.com/chaos_jetzt'),
+    ('mastodon', 'https://chaos.social/@jetzt'),
+    ('Code of Conduct', 'https://md.ctfl.space/s/chaos.jetzt-coc')
+)
+
 
 CC_LICENSE = {
     'name': 'Creative Commons Attribution-ShareAlike',
@@ -56,8 +62,6 @@ CC_LICENSE = {
 
 DEFAULT_PAGINATION = 10
 
-ADD_THIS_ID = 'ra-55adbb025d4f7e55'
-
 STATIC_PATHS = ['images', 'extra']
 
 CUSTOM_CSS = 'static/custom.css'
@@ -65,10 +69,4 @@ CUSTOM_CSS = 'static/custom.css'
 USE_LESS = True
 
 MAIN_MENU = True
-
-
-
-
-
-
 
