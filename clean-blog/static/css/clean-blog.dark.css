@@ -2,16 +2,22 @@
 
 /* this is all the main text color */
 body {
-  color: #ccc;
+  color: #fff;
+}
+.text-muted {
+  color: #ddd;
 }
 a {
-  color: #ccc;
+  color: #46e5ff;
 }
 .navbar-custom.is-fixed .navbar-brand {
   color: #ccc;
 }
 .navbar-custom.is-fixed .nav li a {
   color: #ccc;
+}
+.post-preview > .post-meta {
+  color: lightgrey;
 }
 .post-preview > a {
   color: #ccc;
