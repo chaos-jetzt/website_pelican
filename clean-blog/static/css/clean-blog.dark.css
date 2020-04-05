@@ -1,0 +1,21 @@
+/* overrides colors in Clean Blog */
+
+/* this is all the main text color */
+body {
+  color: #ccc;
+}
+a {
+  color: #ccc;
+}
+.navbar-custom.is-fixed .navbar-brand {
+  color: #ccc;
+}
+.navbar-custom.is-fixed .nav li a {
+  color: #ccc;
+}
+.post-preview > a {
+  color: #ccc;
+}
+.post-preview > .post-meta > a {
+  color: #ccc;
+}

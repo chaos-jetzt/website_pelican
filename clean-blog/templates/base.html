@@ -8,6 +8,8 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="description" content="">
         <meta name="author" content="">
+        <!-- we can do both, but favour light -->
+        <meta name="color-scheme" content="light dark">
 
         <title>{% block title %}{{ SITENAME }}{% endblock title %}</title>
 
@@ -38,9 +40,13 @@
 
         <!-- Bootstrap Core CSS -->
         <link href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/bootstrap.min.css" rel="stylesheet">
+        <!-- Bootstrap Cyborg Theme (dark) -->
+        <link href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/bootstrap.cyborg.min.css" rel="stylesheet" media="(prefers-color-scheme: dark)">
 
         <!-- Custom CSS -->
         <link href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/clean-blog.min.css" rel="stylesheet">
+        <!-- override this if needed -->
+        <link href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/clean-blog.dark.css" rel="stylesheet" media="(prefers-color-scheme: dark)">
         
         <!-- Custom Custom CSS -->
         <link href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/custom.css" rel="stylesheet">
