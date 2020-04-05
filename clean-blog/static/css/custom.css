@@ -1,3 +1,17 @@
 a {
     color: #0085a1;
-} 
+}
+
+#navigation-dropdown-visibility-checkbox-internal {
+  display: none;
+}
+
+.navbar-collapse {
+  height: 0;
+}
+
+#navigation-dropdown-visibility-checkbox-internal:checked + .navbar-collapse {
+  height: auto !important;
+  display: block;
+  visibility: visible;
+}
