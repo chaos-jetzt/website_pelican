@@ -7,11 +7,23 @@ a {
 }
 
 .navbar-collapse {
-  height: 0;
+  max-height: 0 !important;
+  transition: max-height 1s ease;
+  display: block;
+  visibility: visible;
 }
 
-#navigation-dropdown-visibility-checkbox-internal:checked + .navbar-collapse {
+.navbar-collapse *{
+  visibility: hidden;
+}
+
+#navigation-dropdown-visibility-checkbox-internal:checked+.navbar-collapse{
+  max-height: 340px !important; /* Magic value comes from Bootstrap */
   height: auto !important;
   display: block;
+  visibility: visible;
+}
+
+#navigation-dropdown-visibility-checkbox-internal:checked+.navbar-collapse *{
   visibility: visible;
 }
