@@ -1,3 +1,29 @@
 a {
     color: #0085a1;
-} 
+}
+
+#navigation-dropdown-visibility-checkbox-internal {
+  display: none;
+}
+
+.navbar-collapse {
+  max-height: 0 !important;
+  transition: max-height 1s ease;
+  display: block;
+  visibility: visible;
+}
+
+.navbar-collapse *{
+  visibility: hidden;
+}
+
+#navigation-dropdown-visibility-checkbox-internal:checked+.navbar-collapse{
+  max-height: 340px !important; /* Magic value comes from Bootstrap */
+  height: auto !important;
+  display: block;
+  visibility: visible;
+}
+
+#navigation-dropdown-visibility-checkbox-internal:checked+.navbar-collapse *{
+  visibility: visible;
+}
