@@ -1,6 +1,7 @@
 Title: chaos.jetzt FAQ
 Date: 2020-03-01 13:37
 Category: Jetzt
+HEADER_COVER: /images/Tastatur.jpg
 
 Hier gibt es Fragen und Antworten zu den häufigsten Fragen rund um chaos.jetzt. Wenn noch 
 Fragen offen geblieben sind kannst du uns gerne auf [Mastodon](https://chaos.social/@jetzt),
@@ -28,3 +29,5 @@ Bei unseren Geekends hast du die Möglichkeit dich dezidiert ein Wochenende lang
 
 **Was ist die Chaoswelt?**  
 Alles was mit dem [Chaos Computer Club e.V.](https://www.ccc.de/), einzelnen [Erfas](https://www.ccc.de/de/club/erfas), [Chaostreffs](https://www.ccc.de/de/club/chaostreffs) oder anderen [Chaos Nahen Spaces und Gruppen](https://www.ccc.de/de/club/chaosfamily) zu tun hat. Auch bekannt von Veranstaltungen wie dem Chaos Communication Congress, der GPN und weiteren Veranstaltungen.
+
+Bild CC by SA Tobias Moeritz

@@ -16,10 +16,13 @@ PYGMENTS_STYLE = 'monokai'
 
 ROBOTS = 'index, follow'
 
-THEME = 'Flex_angepasst'
+THEME = 'clean-blog'
 PATH = 'content'
 
 TIMEZONE = 'Europe/Paris'
+
+
+HEADER_COVER = '/images/Header.jpg'
 
 
 
@@ -38,21 +41,16 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 
-MENUITEMS = (('Archives', '/archives.html'),
-             ('Categories', '/categories.html'),
-             ('Tags', '/tags.html'),
-             ('Impressum', 'https://chaostreff-flensburg.de/impressum/'),
-             ('Datenschutz', 'https://chaostreff-flensburg.de/datenschutz/')
+MENUITEMS = (('FAQ', '/pages/chaosjetzt-faq.html'),
+             ('Code of Conduct', 'https://md.ctfl.space/s/chaos.jetzt-coc'),
+             ('twitter', 'https://twitter.com/chaos_jetzt'),
+             ('mastodon', 'https://chaos.social/@jetzt'),
 )
-
 
 LINKS = (
     ('twitter', 'https://twitter.com/chaos_jetzt'),
     ('mastodon', 'https://chaos.social/@jetzt'),
     ('Code of Conduct', 'https://md.ctfl.space/s/chaos.jetzt-coc')
-    
-    
-
 )
 
 
@@ -71,10 +69,3 @@ CUSTOM_CSS = 'static/custom.css'
 USE_LESS = True
 
 MAIN_MENU = True
-
-
-
-
-
-
-
