@@ -12,7 +12,7 @@ du dich jederzeit an die Kontaktpersonen wenden.
 
 ## Wir möchten alle respektvoll miteinander umgehen und diese Rechte achten:
 
-- Du hast das Recht, hier zu sein, wenn du rücksichtsvoll mit anderen umgehst und die Hackerethik respektierst.
+- Du hast das Recht, hier zu sein, wenn du rücksichtsvoll mit anderen umgehst und die [Hackerethik](https://www.ccc.de/de/hackerethik) respektierst.
 - Du musst weder löten, noch unsere Nachbarn hacken können.
 - Du hast das Recht, zu bestimmen, wann, wo und wie du fotografiert, gefilmt oder aufgenommen werden möchtest.
 - Du hast das Recht, fair behandelt zu werden. Was für dich zu weit geht, bestimmst nur du selbst, niemand anders.
