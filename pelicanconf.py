@@ -42,7 +42,7 @@ AUTHOR_FEED_RSS = None
 
 
 MENUITEMS = (('FAQ', '/pages/chaosjetzt-faq.html'),
-             ('Code of Conduct', 'https://md.ctfl.space/s/chaos.jetzt-coc'),
+             ('Code of Conduct', '/pages/code-of-conduct.html'),
              ('twitter', 'https://twitter.com/chaos_jetzt'),
              ('mastodon', 'https://chaos.social/@jetzt'),
 )
@@ -50,7 +50,7 @@ MENUITEMS = (('FAQ', '/pages/chaosjetzt-faq.html'),
 LINKS = (
     ('twitter', 'https://twitter.com/chaos_jetzt'),
     ('mastodon', 'https://chaos.social/@jetzt'),
-    ('Code of Conduct', 'https://md.ctfl.space/s/chaos.jetzt-coc')
+    #('Code of Conduct', 'https://md.ctfl.space/s/chaos.jetzt-coc')
 )
 
 
