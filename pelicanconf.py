@@ -42,6 +42,7 @@ AUTHOR_FEED_RSS = None
 
 
 MENUITEMS = (('FAQ', '/pages/chaosjetzt-faq.html'),
+             ('wiki', 'https://wiki.chaos.jetzt" target="_blank'),
              ('Code of Conduct', '/pages/code-of-conduct.html'),
              ('twitter', 'https://twitter.com/chaos_jetzt" target="_blank'),
              ('mastodon', 'https://chaos.social/@jetzt" target="_blank'),
