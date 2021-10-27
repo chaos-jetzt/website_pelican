@@ -22,7 +22,7 @@ PATH = 'content'
 TIMEZONE = 'Europe/Paris'
 
 
-HEADER_COVER = '/images/Header.jpg'
+HEADER_COVER = '/images/chaos.png'
 
 
 
