@@ -8,13 +8,15 @@
     {% else %}
         <header class="intro-header" style="background-image: url('{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/chaos.png')">
     {% endif %}
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                    <div class="page-heading">
-                        <h1>{{ SITENAME }}</h1>
-                        <hr class="small">
-                        <span class="subheading">{{ SITESUBTITLE }}</span>
+        <div class="header-blur">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                        <div class="page-heading">
+                            <h1>{{ SITENAME }}</h1>
+                            <hr class="small">
+                            <span class="subheading">{{ SITESUBTITLE }}</span>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -47,4 +49,3 @@
     {% include "pagination.html" %}
     <hr>
 {% endblock content %}
-

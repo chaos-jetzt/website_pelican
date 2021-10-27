@@ -35,22 +35,24 @@
     {% else %}
         <header class="intro-header" style="background-image: url('/images/general_article.jpg')">
     {% endif %}
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                    <div class="post-heading">
-                        <h1>{{ article.title }}</h1>
-                        {% if article.headline %}
-                            <h3 class="subheading">{{ article.headline }}</h3>
-                        {% endif %}
-                        <span class="meta">Posted by
-                            {% for author in article.authors %}
-                                <a href="{{ SITEURL }}/{{ author.url }}">{{ author }}</a>
-                            {% endfor %}
-                             on {{ article.locale_date }}
-                        </span>
-                        {% import 'translations.html' as translations with context %}
-                        {{ translations.translations_for(article) }}
+        <div class="header-blur">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                        <div class="post-heading">
+                            <h1>{{ article.title }}</h1>
+                            {% if article.headline %}
+                                <h3 class="subheading">{{ article.headline }}</h3>
+                            {% endif %}
+                            <span class="meta">Posted by
+                                {% for author in article.authors %}
+                                    <a href="{{ SITEURL }}/{{ author.url }}">{{ author }}</a>
+                                {% endfor %}
+                                 on {{ article.locale_date }}
+                            </span>
+                            {% import 'translations.html' as translations with context %}
+                            {{ translations.translations_for(article) }}
+                        </div>
                     </div>
                 </div>
             </div>

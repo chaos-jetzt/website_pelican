@@ -2,6 +2,10 @@ a {
     color: #0085a1;
 }
 
+.header-blur {
+    backdrop-filter: blur(3px) brightness(55%);
+}
+
 #navigation-dropdown-visibility-checkbox-internal {
   display: none;
 }
