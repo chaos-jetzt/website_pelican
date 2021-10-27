@@ -3,6 +3,7 @@
 ### Setup
 ```
 pip install -r requirements.txt
+git submodule update --recursive --init
 ```
 
 ### Generate html
@@ -16,13 +17,18 @@ make serve
 ```
 then visit http://localhost:8000/
 
+To automatically rebuild when something changes:
+```
+make devserver
+```
+
 ### Publish
 
 Automated publishing possible, check Pelican documentation
 
 
 [Documentation Pelican](https://docs.getpelican.com/en/stable/index.html)
-[Theme used](https://github.com/alexandrevicenzi/Flex) (little changes)
+[Theme used](https://github.com/gilsondev/pelican-clean-blog) (little changes)
 
 
 ## write more content
@@ -33,7 +39,5 @@ Automated publishing possible, check Pelican documentation
 ## to do
 - more articles
 - add tags to articles
-- create paeges
+- create pages
   - about
-  - faq
-- switch language to German (needs an [additional plugin](https://github.com/getpelican/pelican-plugins/))
