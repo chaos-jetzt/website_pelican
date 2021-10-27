@@ -41,9 +41,9 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 
-MENUITEMS = (('FAQ', '/pages/chaosjetzt-faq.html'),
+MENUITEMS = (('FAQ', '/pages/faq.html'),
              ('wiki', 'https://wiki.chaos.jetzt" target="_blank'),
-             ('Code of Conduct', '/pages/code-of-conduct.html'),
+             ('Code of Conduct', '/pages/coc.html'),
              ('twitter', 'https://twitter.com/chaos_jetzt" target="_blank'),
              ('mastodon', 'https://chaos.social/@jetzt" target="_blank'),
 )
@@ -70,3 +70,7 @@ CUSTOM_CSS = 'static/custom.css'
 USE_LESS = True
 
 MAIN_MENU = True
+
+# see https://docs.getpelican.com/en/stable/settings.html#url-settings
+PATH_METADATA = '(?P<path_no_ext>.*)\..*'
+ARTICLE_URL = ARTICLE_SAVE_AS = PAGE_URL = PAGE_SAVE_AS = '{path_no_ext}.html'
