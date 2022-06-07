@@ -14,6 +14,6 @@ organisieren bist du bei uns genau richtig. Unsere Kernzielgruppe sind dabei 14-
 
 Für kurze Statusmeldungen zu Projekten und Veranstaltungen sind wir auf [Mastodon](https://chaos.social/@jetzt) und 
 [Twitter](https://twitter.com/chaos_jetzt) zu finden. Wenn du Lust hast dich länger mit anderen auszutauschen, kommm am 
-besten in [unsere Matrix-Community](https://matrix.to/#/+chaos.jetzt:chaos.jetzt). Dort gibt es Channels für viele verschiedeme Themen. Solltest du Menschen lieber im "Real Life" kennen lernen kannst du uns aber natürlich auch 
+besten in [unserem Matrix-Space](https://matrix.to/#/#chaos.jetzt:chaos.jetzt). Dort gibt es Channels für viele verschiedeme Themen. Solltest du Menschen lieber im "Real Life" kennen lernen kannst du uns aber natürlich auch 
 gerne auf Veranstaltungen ansprechen.
 Mehr über unsere Kommunikationswege findest du auch in den [FAQ]({filename}/pages/faq.md).
