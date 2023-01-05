@@ -25,6 +25,8 @@ a {
 
 .navbar-collapse *{
   visibility: hidden;
+  opacity: 0;
+  transition: opacity 1s ease, visibility 1s ease;
 }
 
 #navigation-dropdown-visibility-checkbox-internal:checked+.navbar-collapse{
@@ -36,11 +38,13 @@ a {
 
 #navigation-dropdown-visibility-checkbox-internal:checked+.navbar-collapse *{
   visibility: visible;
+  opacity: 1;
 }
 
 @media (min-width: 768px) {
   .navbar-collapse * {
      visibility: visible;
+     opacity: 1;
   }
 }
 
