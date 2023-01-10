@@ -42,7 +42,7 @@ jobs:
   deploy_dev:
     runs-on: ubuntu-latest
     needs: [ build ]
-    if: ${{ github.ref != 'refs/heads/master' }}
+    if: ${{ github.ref != 'refs/heads/main' }}
     environment:
       name: development
       url: https://dev.chaos.jetzt
@@ -53,7 +53,6 @@ jobs:
       - name: deploy
         uses: burnett01/rsync-deployments@5.2.1
         with:
-          path: public/
           switches: -avzr --delete
           remote_path: .
           remote_host: dev.chaos.jetzt
