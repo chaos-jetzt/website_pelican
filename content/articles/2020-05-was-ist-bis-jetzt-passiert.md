@@ -3,7 +3,7 @@ Date: 2020-05-01
 Category: Bericht
 Author: raketenlurch
 Status: draft
-HEADER_COVER: /images/Haj.jpg 
+HEADER_COVER: /images/Haj/Haj-1920.jpg
 
 # Was ist bis jetzt passiert?
 

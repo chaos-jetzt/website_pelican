@@ -2,7 +2,7 @@ Title: Geekend 2020 das Erste
 Date: 2020-03-01 10:20
 Category: Bericht
 Author: janepie
-HEADER_COVER: /images/Haj.jpg
+HEADER_COVER: /images/Haj/Haj-1920.jpg
 
 *Dieser Artikel ist 2020 in der [Ausgabe #102](https://ds.ccc.de/pdfs/ds102.pdf) der Datenschleuder erschienen.*
 
