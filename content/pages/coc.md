@@ -1,7 +1,7 @@
 Title: Code of Conduct
 Date: 2020-04-24 02:56
 Category: Jetzt
-HEADER_COVER: /images/Tastatur.jpg
+HEADER_COVER: /images/Tastatur/Tastatur-1920.jpg
 
 # Code of Conduct
 

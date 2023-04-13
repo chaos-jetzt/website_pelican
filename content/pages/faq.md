@@ -1,7 +1,7 @@
 Title: chaos.jetzt FAQ
 Date: 2020-03-01 13:37
 Category: Jetzt
-HEADER_COVER: /images/Tastatur.jpg
+HEADER_COVER: /images/Tastatur/Tastatur-1920.jpg
 
 Hier gibt es Fragen und Antworten zu den häufigsten Fragen rund um chaos.jetzt.  
 Wenn noch Fragen offen geblieben sind, kannst du uns gerne auf [Mastodon](https://chaos.social/@jetzt),
