@@ -4,8 +4,7 @@ Category: Jetzt
 HEADER_COVER: /images/Tastatur/Tastatur-1920.jpg
 
 Hier gibt es Fragen und Antworten zu den häufigsten Fragen rund um chaos.jetzt.  
-Wenn noch Fragen offen geblieben sind, kannst du uns gerne auf [Mastodon](https://chaos.social/@jetzt),
-[Twitter](https://twitter.com/chaos_jetzt) oder per E-Mail schreiben.
+Wenn noch Fragen offen geblieben sind, kannst du uns gerne auf [Mastodon](https://chaos.social/@jetzt) oder per E-Mail schreiben.
 
 
 **Was ist chaos.jetzt?**  
