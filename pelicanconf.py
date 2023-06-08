@@ -44,12 +44,10 @@ AUTHOR_FEED_RSS = None
 MENUITEMS = (('FAQ', '/pages/faq.html'),
              ('wiki', 'https://wiki.chaos.jetzt" target="_blank'),
              ('Code of Conduct', '/pages/coc.html'),
-             ('twitter', 'https://twitter.com/chaos_jetzt" target="_blank'),
              ('mastodon', 'https://chaos.social/@jetzt" target="_blank'),
 )
 
 LINKS = (
-    ('twitter', 'https://twitter.com/chaos_jetzt'),
     ('mastodon', 'https://chaos.social/@jetzt'),
     #('Code of Conduct', 'https://md.ctfl.space/s/chaos.jetzt-coc')
 )

@@ -12,8 +12,7 @@ Wenn du Lust hast mit anderen jungen Menschen an Projekten zu arbeiten und Veran
 organisieren bist du bei uns genau richtig. Unsere Kernzielgruppe sind dabei 14-18 Jährige, die erweiterte Zielgruppe sind 
 18-27 Jährige. 
 
-Für kurze Statusmeldungen zu Projekten und Veranstaltungen sind wir auf [Mastodon](https://chaos.social/@jetzt) und 
-[Twitter](https://twitter.com/chaos_jetzt) zu finden. Wenn du Lust hast dich länger mit anderen auszutauschen, kommm am 
+Für kurze Statusmeldungen zu Projekten und Veranstaltungen sind wir auf [Mastodon](https://chaos.social/@jetzt) zu finden. Wenn du Lust hast dich länger mit anderen auszutauschen, kommm am 
 besten in [unserem Matrix-Space](https://matrix.to/#/#chaos.jetzt:chaos.jetzt). Dort gibt es Channels für viele verschiedeme Themen. Solltest du Menschen lieber im "Real Life" kennen lernen kannst du uns aber natürlich auch 
 gerne auf Veranstaltungen ansprechen.
 Mehr über unsere Kommunikationswege findest du auch in den [FAQ]({filename}/pages/faq.md).
