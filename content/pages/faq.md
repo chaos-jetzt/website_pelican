@@ -12,7 +12,7 @@ Wenn noch Fragen offen geblieben sind, kannst du uns gerne auf [Mastodon](https:
 Chaos.jetzt ist die Jugendgruppe (oder eher eine Gruppe von jungen Menschen) im CCC bzw. der Chaos Welt für 14- bis 25-Jährige (und seltener auch bis 27-Jährige).
 
 **Wie nehme ich daran teil?**  
-Wir organisieren uns hauptsächlich in [unserer Matrix-Community](https://matrix.to/#/+chaos.jetzt:chaos.jetzt),
+Wir organisieren uns hauptsächlich in [unserem Matrix-Space](https://matrix.to/#/#chaos.jetzt:chaos.jetzt?via=chaos.jetzt),
 du kannst aber auch einfach vorbeikommen, wenn wir auf einer Chaos-Veranstaltung teilnehmen
 oder unseren Audio- bzw. Videokonferenzen joinen.
 
