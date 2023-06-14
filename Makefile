@@ -1,6 +1,6 @@
 PY?=python3
 PELICAN?=pelican
-PELICANOPTS=
+override PELICANOPTS+=
 
 BASEDIR=$(CURDIR)
 INPUTDIR=$(BASEDIR)/content
@@ -73,4 +73,3 @@ publish:
 
 
 .PHONY: html help clean regenerate serve serve-global devserver publish
-
