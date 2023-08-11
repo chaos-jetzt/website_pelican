@@ -3,7 +3,7 @@ Date: 2023-08-08
 Category: bericht
 Tags: jetzt2, bericht
 Authors: scammo, crowd, e1mo
-Headline: Rückblick: #jetzt2 Geekend in der Leipziger dezentrale. <!-- Knackiges preview für mastodon -->
+Headline: Rückblick: #jetzt2 Geekend in der Leipziger dezentrale.
 
 ![Eine braune Holztür mit angebrachtem Schild "dezentrale.space Eintritt Frei"]({static}/images/dezentrale-tuer/dezentrale-tuer-1920.jpg)
 
