@@ -15,7 +15,7 @@ Am Freitagabend werden wir ankommen, uns kennenlernen und Themen für das Wochen
 - nix(OS) gemacht
 - über den neuen chaos.jetzt offboarding Prozess geredet
 - wir haben uns test-driven-devlopment angesehen
-- mit JavaScript Bots gebaut
+- Bots mit JavaScript gebaut
 - das [Wiki](https://wiki.chaos.jetzt/) gepflegt
 - gleichzeitig wurde Veganes Chili für alle gekocht und dann gegessen
 - Zum Schluss wurde noch eine IOT Überwachungskamera übernommen
