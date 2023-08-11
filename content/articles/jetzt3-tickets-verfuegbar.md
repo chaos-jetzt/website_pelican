@@ -17,7 +17,7 @@ Am Freitagabend werden wir ankommen, uns kennenlernen und Themen für das Wochen
 - wir haben uns test-driven-devlopment angesehen
 - Bots mit JavaScript gebaut
 - das [Wiki](https://wiki.chaos.jetzt/) gepflegt
-- gleichzeitig wurde Veganes Chili für alle gekocht und dann gegessen
+- gleichzeitig wurde veganes Chili für alle gekocht und dann gegessen
 - Zum Schluss wurde noch eine IOT Überwachungskamera übernommen
 - das ein oder andere Plena gab es auch
 
