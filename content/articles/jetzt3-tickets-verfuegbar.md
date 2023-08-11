@@ -18,7 +18,7 @@ Am Freitagabend werden wir ankommen, uns kennenlernen und Themen für das Wochen
 - Bots mit JavaScript gebaut
 - das [Wiki](https://wiki.chaos.jetzt/) gepflegt
 - gleichzeitig wurde veganes Chili für alle gekocht und dann gegessen
-- Zum Schluss wurde noch eine IOT Überwachungskamera übernommen
+- Zum Schluss wurde noch eine IoT Überwachungskamera übernommen
 - das ein oder andere Plena gab es auch
 
 Welche Themen in Hamburg besprochen werden, klären die Teilnehmenden selber.
