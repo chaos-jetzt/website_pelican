@@ -24,7 +24,7 @@ Während des gesamten Wochenende war die Versorgung mit Essen und Getränken ges
 
 Zwischen Frühstück und Abschlussplenum am Sonntag haben wir wichtigen Input für die Frage "Wer sind und was wollen wir?" gesammelt.
 
-Das Geekend endete am Sonntag nach produktiver Zusammenarbeit mit großer Zufriedenheit. Die Organisatoren bedankten sich herzlich bei allen Teilnehmenden und der dezentrale für die Unterstützung. Es war ein Wochenende voller inspirierender Gespräche, spannender Projekte und wertvoller Begegnungen.
+Insgesammt hatten wir am Wochenende viele interresante und tiefgründige Gesprächen, konnten aber auch lange bestehende Fragen, wie die der Selbstfindung, angehen. Die Organisator\*innen bedanken sich sowohl bei den Teilnehemnden für die gute mitgebrachte Stimmung aber auch insbesondere bei gnom aus dem Vorstand für den Besuch und der dezentrale als Gastgeberin.
 
 Wir hoffen das alle Teilnehmenden eine gute Heimreise hatte und freuen uns darauf, möglichst viele auf dem nächsten Geekend wieder zu sehen. Ein herzliches Dankeschön an alle Beteiligten, die dieses Geekend zu einem unvergesslichen Erlebnis gemacht haben!
 
