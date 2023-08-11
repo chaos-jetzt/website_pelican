@@ -1,9 +1,9 @@
 Title: Geekend #jetzt3 - jetzt wirds hanseatisch 🌊
-Date: 2023-06-08
+Date: 2023-08-11
 Category: Ankündigung
-Tags: jetzt2
-Author: jetzt2 Orgateam
-Headline: chaos.jetzt kehrt in den Norden zurück. Vom 20. bis 22. Oktober 2023 findet das nächste #jetzt3 Geekend im Chaos Computer Club der Hansestadt Hamburg (CCCHH) statt <!-- Knackiges preview für mastodon -->
+Tags: jetzt3
+Author: jetzt3 Orgateam
+Headline: chaos.jetzt kehrt in den Norden zurück. Vom 20. bis 22. Oktober 2023 findet das nächste #jetzt3 Geekend im Chaos Computer Club der Hansestadt Hamburg (CCCHH) statt.
 
 chaos.jetzt kehrt in den Norden zurück. Vom 20. bis 22. Oktober 2023 findet das nächste #jetzt3 Geekend im [Chaos Computer Club der Hansestadt Hamburg](https://hamburg.ccc.de/) (CCCHH) statt.
 
@@ -21,7 +21,7 @@ Am Freitagabend werden wir ankommen, uns kennenlernen und Themen für das Wochen
 - Zum Schluss wurde noch eine IOT Überwachungskamera übernommen
 - das ein oder andere Plena gab es auch
 
-Welche Themen in Hamburg besprochen werden, klären die teilnehmer\*innen selber. 
+Welche Themen in Hamburg besprochen werden, klären die Teilnehmenden selber.
 
 Wenn ihr jetzt Lust bekommen habt nach Hamburg zu kommen könnt ihr euch die kostenlosen Tickets unter <https://tickets.chaos.jetzt/jetzt3>!
 
