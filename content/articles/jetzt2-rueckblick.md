@@ -4,9 +4,9 @@ Category: bericht
 Tags: jetzt2, bericht
 Authors: scammo, crowd, e1mo
 
-![Eine braune Holztür mit angebrachtem Schild "dezentrale.space Eintritt Frei"]({static}/images/dezentrale-tuer.jpg)
+![Eine braune Holztür mit angebrachtem Schild "dezentrale.space Eintritt Frei"]({static}/images/dezentrale-tuer/dezentrale-tuer-1920.jpg)
 
-In der leipziger [dezentrale] fand vom 21. bis 23. Juli 2023 das [#jetzt2] Geekend von chaos.jetzt statt. Im Mittelpunkt der vom CCC unterstützkten Veranstaltung stand der Austausch von Wissen über technisches, soziales und die Strukturen des "großen C".
+In der leipziger [dezentrale] fand vom 21. bis 23. Juli 2023 das #jetzt2 Geekend von chaos.jetzt statt. Im Mittelpunkt der vom CCC unterstützkten Veranstaltung stand der Austausch von Wissen über technisches, soziales und die Strukturen des "großen C".
 
 Am Freitag Abend haben wir uns zu Pizza und Mate unter die unter die Anwesenden im Open-Space der dezentrale gemischt. So konnten wir nicht nur unsere Gastgeber\*innen etwas besser kennenlernen, sondern auch ein paar Kontakte außerhalb der chaos.jetzt Gruppe knüpfen.
 
