@@ -2,24 +2,33 @@ Title: Rückblick: #jetzt2
 Date: 2023-08-08
 Category: bericht
 Tags: jetzt2, bericht
-Author: scammo and crowd
-Headline: Rückblick: #jetzt2. <!-- Knackiges preview für mastodon -->
+Authors: scammo, crowd, e1mo
 
-![Kreidemalerei bei der GPN]({static}/images/dezentrale-tuer.jpg)
+![Eine braune Holztür mit angebrachtem Schild "dezentrale.space Eintritt Frei"]({static}/images/dezentrale-tuer/dezentrale-tuer-1920.jpg)
 
+In der leipziger [dezentrale] fand vom 21. bis 23. Juli 2023 das #jetzt2 Geekend von chaos.jetzt statt. Im Mittelpunkt der vom CCC unterstützkten Veranstaltung stand der Austausch von Wissen über technisches, soziales und die Strukturen des "großen C".
 
-Vom 21. bis 23. Juli 2023 fand in Leipzig ein spannendes Geekend statt, organisiert von chaos.jetzt. Die Veranstaltung fand in den gemütlichen Räumlichkeiten der [dezentrale](https://dezentrale.space/) in Leipzig statt und bot den Teilnehmenden eine fantastische Gelegenheit, sich zu treffen, auszutauschen und gemeinsam an spannenden Projekten zu arbeiten.
+Am Freitag Abend haben wir uns zu Pizza und Mate unter die unter die Anwesenden im Open-Space der dezentrale gemischt. So konnten wir nicht nur unsere Gastgeber\*innen etwas besser kennenlernen, sondern auch ein paar Kontakte außerhalb der chaos.jetzt Gruppe knüpfen.
 
-Das Geekend startete am Freitag mit viel Vorfreude und Enthusiasmus. Unter dem Hashtag #jetzt2 wurde der Start der Veranstaltung im sozialen Netzwerk Mastodon angekündigt. Das Wochenende versprach eine Mischung aus Kennenlernen, Netzwerken und produktiver Zusammenarbeit mit verschiedenen Themen auf der Agenda.
+Eröffnet mit der [obligatorischen Gesangseinlage](plenumslied) begann der Sammstag mit einem Plenum zur Sortierung der Themen und dem Festlegen eines Zeitplans für das restliche Wochenende.
 
-Schon der Veranstaltungsort war ein echter Hingucker! Eine Discokugel hing von der Decke und die Wände waren mit Neon-Gaffa dekoriert. Besonders beeindruckend war ein großer 3D-gedruckter "Fairydust", der in leuchtendem Rot erstrahlte und für eine magische Atmosphäre sorgte.
+Los ging es mit einem Ask-Me-Anyhting mit gnom aus dem CCC Vorstand. Hier haben wir vieles über die Struktur, Funktionsweise und Ausrichtung des Clubs gelernt. Den restlichen Sammstag füllten wir mit verschiedenen, selbst organisierten, Workshops.
 
-Der Samstag begann mit einem Plenum, in dem alle Teilnehmenden gemeinsam Ideen austauschten und wichtige Entscheidungen für den weiteren Verlauf des Geekends trafen. Eröffnet wurde das Plenum natürlich mit dem Plenumslied von Revolte Springbrunnen. Danach ging es in die spannenden Workshops, die den ganzen Tag über stattfanden.
+Während einer Besprechung unseres neuen Offboarding-Prozess für alle die chaos.jetzt leider verlassen fand im Nebenraum gleichzeitig eine Session über "test-driven development" statt.
+Während im Anschluss die Javascript Selbsthilfegruppe tagte, und Mastodon Bots entwickelte, wurde die neue [NixOS Konfiguration unserer Infrastruktur](nixfiles) vorgestellt und offene Pull-Requests reviewed.
 
-Das Geekend bot eine Vielzahl von Aktivitäten für die Teilnehmenden. Neben einem interessanten „Ask me Anything”-Segment, in dem Fragen rund um die Themen Chaos, Politik und Technologie beantwortet wurden, gab es auch verschiedene Hands-on-Workshops. Einige Teilnehmende beschäftigten sich mit dem Thema „nix(OS)”, während andere den neuen „chaos.jetzt Offboarding Prozess” diskutierten. Die Entwickler*innen unter den Geekend-Teilnehmer*innen lernten „test-driven development” näher kennen und bauten mit Begeisterung JavaScript-Bots. Außerdem wurde das Wiki gepflegt und eine IoT-Überwachungskamera erfolgreich in Betrieb genommen.
+Den restlichen Tag über gab es nebst veganem Chilli auch Treffen mit dem Ziel Wissen über die Organisation von Geekends zu sichern aber auch unser [Wiki] auf einen aktuellen Stand zu bringen.
+Zudem konnten wir uns unter dem Motto "betreutes Hacken" an den Sicherheitslücken einer IoT-Kamera austoben.
 
-Natürlich kam auch das leibliche Wohl nicht zu kurz. Parallel zu den Aktivitäten wurde für alle veganes Chili zubereitet und anschließend gemeinsam verspeist. Essen verbindet schließlich!
+Während des gesamten Wochenende war die Versorgung mit Essen und Getränken gesichert. Neben Pizza und Chilli zum Mittag und Abendesse, stellten wir auch ein komplett vegetarisches / veganes ewiges Frühstück auf die Beine.
+
+Zwischen Frühstück und Abschlussplenum am Sonntag haben wir wichtigen Input für die Frage "Wer sind und was wollen wir?" gesammelt.
 
 Das Geekend endete am Sonntag nach produktiver Zusammenarbeit mit großer Zufriedenheit. Die Organisatoren bedankten sich herzlich bei allen Teilnehmenden und der dezentrale für die Unterstützung. Es war ein Wochenende voller inspirierender Gespräche, spannender Projekte und wertvoller Begegnungen.
 
-Allen Teilnehmenden wurde eine gute Heimreise gewünscht. Das nächste Geekend ist bereits in Planung. Ein herzliches Dankeschön an alle Beteiligten, die dieses Geekend zu einem unvergesslichen Erlebnis gemacht haben! 
+Wir hoffen das alle Teilnehmenden eine gute Heimreise hatte und freuen uns darauf, möglichst viele auf dem nächsten Geekend wieder zu sehen. Ein herzliches Dankeschön an alle Beteiligten, die dieses Geekend zu einem unvergesslichen Erlebnis gemacht haben!
+
+[dezentrale]: https://dezentrale.space/
+[plenumslied]: https://www.youtube.com/watch?v=Y3-VTt5CMUM
+[nixfiles]: https://github.com/chaos-jetzt/chaos-jetzt-nixfiles
+[Wiki]: https://wiki.chaos.jetzt
