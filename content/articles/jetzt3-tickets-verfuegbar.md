@@ -25,7 +25,7 @@ Welche Themen in Hamburg besprochen werden, klären die Teilnehmenden selber.
 
 Wenn ihr jetzt Lust bekommen habt nach Hamburg zu kommen könnt ihr euch die kostenlosen Tickets unter <https://tickets.chaos.jetzt/jetzt3>!
 
-Aktualisierungen oder auch einen kleinen Ablaufplan findet ihr bis zum Geekend in unserem Teilnehmen\*innen Matrix Raum oder auf [Mastodon](https://chaos.social/@jetzt).
+Aktualisierungen oder auch einen kleinen Ablaufplan findet ihr bis zum Geekend in unserem Teilnehmen\*innen Matrix-Raum oder auf [Mastodon](https://chaos.social/@jetzt).
 
 Wir freuen uns auf viele altbekannte und neue Gesichter, euer #jetzt3 Orgateam.
 
