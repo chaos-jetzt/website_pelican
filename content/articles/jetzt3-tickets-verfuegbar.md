@@ -29,4 +29,4 @@ Aktualisierungen oder auch einen kleinen Ablaufplan findet ihr bis zum Geekend i
 
 Wir freuen uns auf viele altbekannte und neue Gesichter, euer #jetzt3 Orgateam.
 
-[^1] Übernachtungen mit Minderjährigen sind ein rechtlicher und organisatorischer Aufwand, den wir aktuell leider nicht stemmen können.
+[^1]: Übernachtungen mit Minderjährigen sind ein rechtlicher und organisatorischer Aufwand, den wir aktuell leider nicht stemmen können.
