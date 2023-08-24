@@ -47,12 +47,6 @@ MENUITEMS = (('FAQ', '/pages/faq.html'),
              ('mastodon', 'https://chaos.social/@jetzt" target="_blank" rel="me"'),
 )
 
-LINKS = (
-    ('mastodon', 'https://chaos.social/@jetzt'),
-    #('Code of Conduct', 'https://md.ctfl.space/s/chaos.jetzt-coc')
-)
-
-
 CC_LICENSE = {
     'name': 'Creative Commons Attribution-ShareAlike',
     'version': '4.0',
