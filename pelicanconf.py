@@ -42,16 +42,10 @@ AUTHOR_FEED_RSS = None
 
 
 MENUITEMS = (('FAQ', '/pages/faq.html'),
-             ('wiki', 'https://wiki.chaos.jetzt" target="_blank'),
-             ('Code of Conduct', '/pages/coc.html'),
-             ('mastodon', 'https://chaos.social/@jetzt" target="_blank'),
+             ('wiki', 'https://wiki.chaos.jetzt" target="_blank"'),
+             ('Code of Conduct', '/pages/coc.html"'),
+             ('mastodon', 'https://chaos.social/@jetzt" target="_blank" rel="me"'),
 )
-
-LINKS = (
-    ('mastodon', 'https://chaos.social/@jetzt'),
-    #('Code of Conduct', 'https://md.ctfl.space/s/chaos.jetzt-coc')
-)
-
 
 CC_LICENSE = {
     'name': 'Creative Commons Attribution-ShareAlike',
