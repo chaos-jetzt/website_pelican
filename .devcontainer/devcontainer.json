@@ -1,0 +1,19 @@
+{
+  "name": "Pelican Development",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-python.python",
+        "ms-python.pylint",
+        "ms-vscode.makefile-tools",
+        "github.codespaces"
+      ]
+    }
+  },
+  "updateContentCommand": "pip install -r requirements.txt",
+  "postStartCommand": "make devserver",
+  "forwardPorts": [8000],
+  "containerEnv": {
+    "LOCALE": "de_DE"
+  }
+}
