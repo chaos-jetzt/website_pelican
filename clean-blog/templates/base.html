@@ -132,7 +132,9 @@
                     <p class="copyright text-muted">All content <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY SA</a> unless stated otherwise.</p>
                     <p class="copyright text-muted">Blog powered by <a href="http://getpelican.com">Pelican,</a>
                 which takes great advantage of <a href="http://python.org">Python.</a></p>
-                    <p class="copyright text-muted"> <a href="https://chaostreff-flensburg.de/impressum/">Impressum</a> <span aria-hidden="true">||</span> <a href="https://chaostreff-flensburg.de/datenschutz/">Datenschutz</a>
+                    <p class="copyright text-muted"> <a href="https://chaostreff-flensburg.de/impressum/">Impressum</a> <span aria-hidden="true">||</span> <a href="https://chaostreff-flensburg.de/datenschutz/">Datenschutz</a> <span aria-hidden="true">||</span> {% if FEED_ALL_ATOM %}
+                    <a href="{{ FEED_DOMAIN }}/{{ FEED_ALL_ATOM }}" target="_blank" title="{{ SITENAME }} Full Atom Feed" >Feed</a>
+        {% endif %}
                 </div>
             </div>
         </div>
