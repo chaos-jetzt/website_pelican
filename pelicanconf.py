@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'janepie'
 SITENAME = 'chaos.jetzt'
-SITEURL = ''
+SITEURL = 'https://chaos.jetzt'
 SITENAME = 'chaos.jetzt'
 SITETITLE = 'chaos.jetzt'
 SITESUBTITLE = 'Wir sind junge Menschen im Chaos-Umfeld - komm und mach mit!'
@@ -34,7 +34,7 @@ OG_LOCALE = 'de_DE'
 LOCALE = 'de_DE'
 
 # Feed generation is usually not desired when developing
-FEED_ALL_ATOM = None
+FEED_ALL_ATOM = "feeds/all.atom.xml"
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
