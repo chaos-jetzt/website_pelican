@@ -10,19 +10,25 @@ jobs:
     runs-on: ubuntu-latest
     outputs:
       siteurl: ${{ steps.get_siteurl.outputs.base_url }}
+      upload_dir: ${{ steps.get_siteurl.outputs.branch_dir }}
     steps:
       - name: Obtain pull-request number from event
         id: get_siteurl
         run: |
           if [[ "$GITHUB_EVENT_NAME" == "pull_request" ]]; then
             pull_number=$(jq --raw-output .pull_request.number "$GITHUB_EVENT_PATH")
-            echo "base_url=/_pr-${pull_number}" >> $GITHUB_OUTPUT
+            pull_dir="/_pr-${pull_number}"
+            echo "base_url=https://dev.chaos.jetzt${pull_dir}" >> $GITHUB_OUTPUT
+            echo "branch_dir=${pull_dir}" >> $GITHUB_OUTPUT
           else
             if [[ "$GITHUB_REF" != "refs/heads/main" ]]; then
               branch_name=${GITHUB_REF/refs\/heads/}
-              echo "base_url=/${branch_name/\//_}" >> $GITHUB_OUTPUT
+              branch_dir="/${branch_name/\//_}"
+              echo "branch_dir=${branch_dir}" >> $GITHUB_OUTPUT
+              echo "base_url=https://dev.chaos.jetzt/${branch_dir}" >> $GITHUB_OUTPUT
             else
-              echo "base_url=" >> $GITHUB_OUTPUT
+              echo "base_url=https://chaos.jetzt" >> $GITHUB_OUTPUT
+              echo "branch_dir=" >> $GITHUB_OUTPUT
             fi
           fi
 
@@ -53,7 +59,7 @@ jobs:
     if: github.ref == 'refs/heads/main'
     environment:
       name: production
-      url: https://chaos.jetzt
+      url: ${{ needs.determine_urls.outputs.siteurl }}
     steps:
       - uses: actions/download-artifact@v2
         with:
@@ -72,7 +78,7 @@ jobs:
     if: github.ref != 'refs/heads/main'
     environment:
       name: development
-      url: https://dev.chaos.jetzt${{ needs.determine_urls.outputs.siteurl }}
+      url: ${{ needs.determine_urls.outputs.siteurl }}
     steps:
       - uses: actions/download-artifact@v2
         with:
@@ -81,7 +87,7 @@ jobs:
         uses: burnett01/rsync-deployments@5.2.1
         with:
           switches: -avzr --delete
-          remote_path: ${{ needs.determine_urls.outputs.siteurl }}
+          remote_path: ${{ needs.determine_urls.outputs.upload_dir }}
           remote_host: dev.chaos.jetzt
           remote_user: web-deploy
           remote_key: ${{ secrets.DEPLOY_KEY }}
