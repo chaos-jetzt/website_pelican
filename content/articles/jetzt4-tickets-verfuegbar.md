@@ -6,7 +6,7 @@ Author: ytvwld
 Headline: chaos.jetzt kommt wieder in den tiefen Westen: vom 09. bis zum 11.02.2024 findet das nächste Geekend #jetzt4 im Labor statt.
 
 chaos.jetzt kommt wieder in den tiefen Westen: Vom 09. bis 11.02.2024 findet das
-nächste Geekend #jetzt4 im [Labor] (https://das-labor.org), Bochum statt.
+nächste Geekend #jetzt4 im [Labor](https://das-labor.org), Bochum statt.
 
 ## Was erwartet mich?
 
@@ -15,22 +15,14 @@ Nachdem wir am Freitag angekommen sind und uns kennengelernt haben, werden wir
 [Barcamp](https://de.wikipedia.org/wiki/Barcamp)-mäßig überlegen, was und wo passiert.
 Neben gemeinsamem Essen gab es
 [beim letzten Geekend in Hamburg](/articles/jetzt3-tickets-verfuegbar.html)
-Workshops und Vorträge, z.B. über
-
- * OpSec
- * QubesOS
- * Nushell
- * nixOS
- * Matrix
- * Fediverse
- * Netzpolitik
+Workshops und Vorträge über verschiedenste technische und netzpolitische Themen.
 
 ## Was muss ich tun?
 
 Wenn du zwischen 16 und 25 bist[^1] und jetzt Lust bekommen hast, in Bochum dabei zu
 sein, dann brauchst du ein [Ticket](https://tickets.chaostreff-flensburg.de/chaos.jetzt/jetzt4/).
 Eins der Tickets enthält die Übernachtung in der [Jugendherberge Bochum](https://www.jugendherberge.de/jugendherbergen/bochum/).
-Keine Angst, beide Tickets sind kostenlos.
+Keine Angst, die Tickets sind kostenlos.
 
 Die Kosten für die An- und Abreise werden von den Teilnehmenden selbst getragen, können aber erstattet werden. Weitere Informationen zu den Erstattungsmöglichkeiten und einen Link zum Matrix-Teilnehmer*innen-Raum erhaltet ihr mit der Buchungsbestätigung.
 
