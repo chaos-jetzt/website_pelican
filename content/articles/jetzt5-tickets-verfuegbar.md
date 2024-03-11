@@ -29,7 +29,7 @@ zu Erstattungen und den Zugang zum Matrix-Teilnehmer*innen-Raum erhältst du mit
 
 Bei Fragen oder Interesse, einen Workshop zu leiten, zögere nicht, dich in unserem Matrix-Raum
 [`#allgemein:chaos.jetzt`](https://matrix.to/#/#allgemein:chaos.jetzt) zu melden, uns im Fediverse unter
-[`@jetzt@chaos.jetzt`](https://chaos.social/@jetzt) zu kontaktieren oder eine E-Mail an `geekend(at)chaos(dot)jetzt` zu schreiben.
+[`@jetzt@chaos.social`](https://chaos.social/@jetzt) zu kontaktieren oder eine E-Mail an `geekend(at)chaos(dot)jetzt` zu schreiben.
 
 
 [^1]: Aus rechtlichen und organisatorischen Gründen können wir Übernachtungen
