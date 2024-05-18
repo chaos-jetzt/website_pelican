@@ -22,7 +22,7 @@ Fragen reichen. Natürlich ist auch für gemeinsame Mahlzeiten gesorgt. Die Zeit
 ## Was muss ich tun?
 
 Wenn du im Alter von 16 bis 25 Jahren bist[^1] und Interesse hast, am Geekend in Wien teilzunehmen, sichere dir
-dein [Ticket **jetzt**](http://tickets.chaos.jetzt/jetzt6). Es gibt zwei Arten von Tickets,
+dein [Ticket](http://tickets.chaos.jetzt/jetzt6) **jetzt**. Es gibt zwei Arten von Tickets,
 ein Ticket mit Übernachtung in der örtlichen Jugendherberge und
 ein Ticket für Menschen, die schon eine Unterkunft in Wien haben, bei welchem also keine Übernachtung dabei ist.
 Keine Sorge, die Tickets sind kostenfrei.
