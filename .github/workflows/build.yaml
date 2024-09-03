@@ -61,7 +61,7 @@ jobs:
       name: production
       url: https://chaos.jetzt
     steps:
-      - uses: actions/download-artifact@v2
+      - uses: actions/download-artifact@v4.1.7
         with:
           name: website_pelican-build
       - name: deploy
@@ -80,7 +80,7 @@ jobs:
       name: development
       url: ${{ needs.determine_urls.outputs.siteurl }}
     steps:
-      - uses: actions/download-artifact@v2
+      - uses: actions/download-artifact@v4.1.7
         with:
           name: website_pelican-build
       - name: deploy
