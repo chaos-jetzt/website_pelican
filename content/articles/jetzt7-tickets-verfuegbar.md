@@ -5,15 +5,13 @@ Tags: jetzt6
 Author: MoKe
 Headline: Late NIColaus: vom 13.12. bis zum 15.12.2024 findet das nächste Chaos.jetzt Geekend #jetzt7 in Neu-Ulm statt.
 
-Nach dem letztem chaos.jetzt Geekend im Metalab in Wien wir chaos.jetzt mit #jetzt7 neue Ufer bestreiten.
-Vom 13.12 bis zum 15.12.2024 werden wir ein Wochenende lang temporär das temporärhaus in Neu-Ulm übernehmen.
+Nach dem letztem chaos.jetzt Geekend im Metalab in Wien wollen wir in #jetzt7 neue Ufer bestreiten.
+Vom 13.12 bis zum 15.12.2024 werden wir ein Wochenende lang (also temporär) das temporärhaus in Neu-Ulm übernehmen.
 Damit wird #jetzt7 nicht nur das erste Geekend in Bayern, sondern auch das größte chaos.jetzt Geekend bislang.
 Mit dem temporärhaus als Gastgeber wird es uns möglich sein, 3 Etagen mit insgesamt 70 Teilnehmern zu bespielen.
 
-Solltet ihr nur auf die Warteliste für das letzte chaos.jetzt Geekend geschafft haben, ist dies eure Chance!
-Die nächsten Geekends werden wieder in der grwohnten Größe sein.
-
-Wir freuen uns auf euch.
+Solltet ihr es nur auf die Warteliste für das letzte chaos.jetzt Geekend geschafft haben, ist dies eure Chance!
+Die nächsten Geekends werden wieder in der grwohnten Größe stattfinden.
 
 ## Was erwartet mich?
 
@@ -24,16 +22,16 @@ wo die Workshops und Vorträge stattfinden werden. Es erwartet dich ein vielfäl
 Workshops und Vorträgen zu einer breiten Palette von Themen, die von technischen Innovationen bis zu netzpolitischen
 Fragen reichen. Natürlich ist auch für gemeinsame Mahlzeiten gesorgt. Die Zeiten sind im Pretix spezifiziert.
 
-Wenn ihr auch einen Vortrag oder Workshop halten wollt,
-meldet euch einfach kurz per E-Mail an jetzt7@chaos.jetzt oder wartet,
+Wenn ihr einen Vortrag oder Workshop halten wollt,
+meldet euch einfach kurz per E-Mail an jetzt7@chaos.jetzt, schreibt uns über Matrix oder wartet,
 bis wir unser Talk-System online schalten (wir werden euch rechtzeitig informieren).
 
 ## Ablauf
 
-Am Freitagabend werden wir ankommen, uns kennenlernen und Themen für das Wochenende sammeln.
-Samstags und Sonntags früh wird pleniert, woran sich das Workshopprogramm anschließt.
-
-Dem Sonntagsplenum schließt sich die Abreise an.
+- Am Freitagabend werden wir ankommen, uns kennenlernen und Themen für das Wochenende sammeln.
+- Samstags früh findet das erste Plenum statt.
+Danach schließt sich das Workshopprogramm an und wir fangen an das Mittagessen zu kochen.
+- Dem Sonntagsplenum schließt sich die Abreise an.
 
 ## Was muss ich tun?
 
