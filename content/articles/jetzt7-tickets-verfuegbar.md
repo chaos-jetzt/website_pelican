@@ -6,7 +6,7 @@ Author: MoKe
 Headline: Late NIColaus: vom 13.12. bis zum 15.12.2024 findet das nächste chaos.jetzt Geekend #jetzt7 in Neu-Ulm statt
 
 Nach dem letzten chaos.jetzt Geekend im Metalab in Wien wollen wir mit #jetzt7 neue Ufer bestreiten.
-Vom 13.12 bis zum 15.12.2024 werden wir ein Wochenende lang (also temporär) das temporärhaus in Neu-Ulm übernehmen.
+Vom 13.12. bis zum 15.12.2024 werden wir ein Wochenende lang (also temporär) das temporärhaus in Neu-Ulm übernehmen.
 Damit wird #jetzt7 nicht nur das erste Geekend in Bayern, sondern auch das größte chaos.jetzt Geekend bislang.
 Dank dem temporärhaus als Gastgeber wird es uns mit vier großen Etagen ganz sicher nicht an Platz mangeln.
 
