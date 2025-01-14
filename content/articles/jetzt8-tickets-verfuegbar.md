@@ -35,5 +35,8 @@ Bei Fragen oder bei Interesse, einen Workshop zu leiten, zögere nicht, dich in 
 
 Wir freuen uns darauf, Dich beim Geekend zu sehen.
 
+**Hinweis:** Am 23.02.2025 findet die Bundestagswahl statt. Wenn ihr wählen dürft, solltet ihr das auch tun.
+Denkt also daran, rechtzeitig Briefwahl zu beantragen.
+
 [^1]: Aus rechtlichen und organisatorischen Gründen können wir Übernachtungen
 leider erst ab 18 Jahren anbieten. Wenn das ein Problem sein sollte, schreibe uns bitte.
