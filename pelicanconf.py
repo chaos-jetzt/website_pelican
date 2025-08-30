@@ -41,7 +41,8 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 
-MENUITEMS = (('FAQ', '/pages/faq.html'),
+MENUITEMS = (('Geekendübersicht', 'https://wiki.chaos.jetzt/geekendliste" target="_blank'),
+             ('FAQ', '/pages/faq.html'),
              ('wiki', 'https://wiki.chaos.jetzt" target="_blank'),
              ('Code of Conduct', '/pages/coc.html'),
              ('mastodon', 'https://chaos.social/@jetzt" target="_blank" rel="me'),
