@@ -6,7 +6,7 @@ Author: yu
 Headline: Vom 07.11 bis 09.11.2025 im CCC FFM 
 
 Das nächste chaos.jetzt-Geekend **#jetzt11** steht vor der Tür! Vom **07.11. bis 09.11.2025** treffen wir uns in Frankfurt, um gemeinsam ein Wochenende voller Austausch, Ideen und Community-Spirit zu erleben. Nach unserem Treffen im Stratum 0 wollen wir diesmal die Netze im Knotenpunkt [FFM](https://ccc-ffm.de/) stärken.
-
+<!-- PELICAN_END_SUMMARY -->
 ## Was erwartet euch?
 
 Taucht ein in ein interaktives Wochenende! Ihr bringt die Themen, wir den Raum: Workshops, Talks, gemeinsames Essen und Diskussionen rund um Technik und (Netz-)Politik. Neben dem Programm geht es darum, Verbindungen zu knüpfen, Netze zu stärken und Banden zu bilden. Freitag starten wir mit der Programmplanung, danach folgen zwei Tage voller Input und Austausch.
