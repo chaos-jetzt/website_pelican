@@ -1,5 +1,5 @@
 Title: Geekend #jetzt11 in Frankfurt
-Date: 2025-09-01
+Date: 2025-08-31
 Category: Ankündigung
 Tags: jetzt11
 Author: yu
