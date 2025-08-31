@@ -24,6 +24,8 @@ TIMEZONE = 'Europe/Paris'
 
 HEADER_COVER = '/images/chaos.png'
 
+SUMMARY_MAX_LENGTH = 50
+SUMMARY_MAX_PARAGRAPHS = 1
 
 
 # Default theme language.
