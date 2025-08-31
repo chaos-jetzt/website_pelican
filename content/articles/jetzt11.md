@@ -16,16 +16,17 @@ Wir stellen euch einen Ruheraum und Vertrauenspersonen zur Verfügung.
 
 Wenn du im Alter von 18 bis 25 Jahren bist [^1] und Interesse hast, am Geekend teilzunehmen, klicke dir bitte ein [Ticket](http://tickets.chaos.jetzt/jetzt11). Zwei Konfigurationen sind verfügbar:
 
-* **Ticket mit Übernachtung** im [`A&O Hostel`](https://www.aohostels.com/de/frankfurt/frankfurt-galluswarte/)(5 Gehminuten)
+* **Ticket mit Übernachtung** im [`A&O Hostel`](https://www.aohostels.com/de/frankfurt/frankfurt-galluswarte/) (5 Gehminuten)
 * **Ticket ohne Übernachtung** für alle, die bereits eine Unterkunft in Frankfurt oder Umgebung haben 
 
 Dieses Jahr verteilen wir die Tickets in zwei Wellen, um möglichst vielen die Teilnahme zu ermöglichen: 
+
 * **Erste Welle:** ab 13.09., Freischaltung um 19:42 Uhr
 * **Zweite Welle:** ab 20.09., Freischaltung um 13:37 Uhr
 
 Keine Sorge: Alle Tickets sind kostenlos. An- und Abreisekosten müssen zunächst selbst übernommen werden, können aber erstattet werden. Weitere Infos zur Erstattung sowie den Zugang zu unserem Matrix-Raum erhältst du mit deiner Buchungsbestätigung.
 
-##Ich habe eine Frage
+## Ich habe eine Frage
 
 Bei Fragen oder bei Interesse, einen Workshop zu leiten, zögere nicht, dich in unserem Matrix-Raum
 [`#allgemein:chaos.jetzt`](https://matrix.to/#/#allgemein:chaos.jetzt) zu melden, uns im Fediverse unter
