@@ -28,7 +28,9 @@ Dieses Jahr verteilen wir die Tickets in zwei Wellen, um möglichst vielen die T
 * **Erste Welle:** ab 13.09., Freischaltung um 19:42 Uhr
 * **Zweite Welle:** ab 20.09., Freischaltung um 13:37 Uhr
 
-Keine Sorge: Alle Tickets sind kostenlos. An- und Abreisekosten müssen zunächst selbst übernommen werden, können aber erstattet werden. Weitere Infos zur Erstattung sowie den Zugang zu unserem Matrix-Raum erhältst du mit deiner Buchungsbestätigung.
+Keine Sorge: Alle Tickets sind kostenlos. An- und Abreisekosten müssen zunächst selbst übernommen werden, können aber erstattet werden. Weitere Infos zur Erstattung sowie den Zugang zu unserem Matrix-Raum erhältst du mit deiner Buchungsbestätigung. Eine Übersicht zu den Anfahrtsmöglichkeiten findest du unter [`ccc-ffm.de/anfahrt/ `](https://ccc-ffm.de/anfahrt/).
+
+https://ccc-ffm.de/anfahrt/
 
 ## Ich habe eine Frage
 
