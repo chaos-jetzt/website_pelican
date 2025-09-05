@@ -19,7 +19,7 @@ Wenn du im Alter von 18 bis 25 Jahren bist [^1] und Interesse hast, am Geekend t
 * **Ticket mit Übernachtung** im [`A&O Hostel`](https://www.aohostels.com/de/frankfurt/frankfurt-galluswarte/) (5 Gehminuten)
 * **Ticket ohne Übernachtung** für alle, die bereits eine Unterkunft in Frankfurt oder Umgebung haben 
 
-Dieses Jahr verteilen wir die Tickets in zwei Wellen, um möglichst vielen die Teilnahme zu ermöglichen: 
+Dieses Jahr verteilen wir die Tickets in zwei Wellen und mit einem FLINTA*-Kontingent, um möglichst vielen die Teilnahme zu ermöglichen: 
 
 * **Erste Welle:** ab 13.09., Freischaltung um 19:42 Uhr
 * **Zweite Welle:** ab 20.09., Freischaltung um 13:37 Uhr
@@ -28,7 +28,7 @@ Keine Sorge: Alle Tickets sind kostenlos. An- und Abreisekosten müssen zunächs
 
 ## Ich habe eine Frage
 
-Bei Fragen oder bei Interesse, einen Workshop zu leiten, zögere nicht, dich in unserem Matrix-Raum
+Bei Fragen oder bei Interesse einen Workshop zu leiten, zögere nicht, dich in unserem Matrix-Raum
 [`#allgemein:chaos.jetzt`](https://matrix.to/#/#allgemein:chaos.jetzt) zu melden, uns im Fediverse unter
 [`@jetzt@chaos.social`](https://chaos.social/@jetzt) zu kontaktieren oder eine E-Mail an [`jetzt11(at)chaos(dot)jetzt`](mailto:jetzt11@chaos.jetzt?subject=Frage%20zu%20#jetzt11%20Geekend) zu schreiben.
 
