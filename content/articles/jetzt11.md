@@ -3,6 +3,10 @@ Date: 2025-08-31
 Category: Ankündigung
 Tags: jetzt11
 Author: yu
+:slug: jetzt11
+:lang: de
+DEFAULT_LANG: de
+
 Headline: Vom 07.11 bis 09.11.2025 im CCC FFM 
 
 Das nächste chaos.jetzt-Geekend **#jetzt11** steht vor der Tür! Vom **07.11. bis 09.11.2025** treffen wir uns in Frankfurt, um gemeinsam ein Wochenende voller Austausch, Ideen und Community-Spirit zu erleben. Nach unserem Treffen im Stratum 0 wollen wir diesmal die Netze im Knotenpunkt [FFM](https://ccc-ffm.de/) stärken.
