@@ -3,8 +3,8 @@ Date: 2025-08-31
 Category: Ankündigung
 Tags: jetzt11
 Author: yu
-:slug: jetzt11
-:lang: de
+slug: jetzt11
+lang: de
 DEFAULT_LANG: de
 
 Headline: Vom 07.11 bis 09.11.2025 im CCC FFM 
