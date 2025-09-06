@@ -9,7 +9,8 @@ DEFAULT_LANG: de
 Headline: From November 7 to November 9, 2025, at CCC FFM 
 
 The next chaos.jetzt geekend **#jetzt11** is just around the corner! From **November 7 to November 9, 2025**, we will meet in Frankfurt to enjoy a weekend full of exchange, ideas, and community spirit. After our gathering at Stratum 0, this time we want to strengthen the networks at the [FFM](https://ccc-ffm.de/) hub.
-## Was erwartet euch?
+## What can you expect?
+
 
 Dive into an interactive weekend! You bring the topics, we give you the space: workshops, talks, shared meals, and discussions about technology and (internet) policy. In addition to the program, the focus is on making connections, building networks, and forming alliances. We'll start with program planning on Friday, followed by two days full of input and exchange.
 We will provide you with a quiet room and counselors.
@@ -30,7 +31,7 @@ This year, we are distributing tickets in two waves and have a FLINTA* quota to 
 Keine Sorge: Alle Tickets sind kostenlos. An- und Abreisekosten müssen zunächst selbst übernommen werden, können aber erstattet werden. Weitere Infos zur Erstattung sowie den Zugang zu unserem Matrix-Raum erhältst du mit deiner Buchungsbestätigung. Eine Übersicht zu den Anfahrtsmöglichkeiten findest du unter [`ccc-ffm.de/anfahrt/ `](https://ccc-ffm.de/anfahrt/).
 
 
-## Ich habe eine Frage
+## I have a question
 
 Bei Fragen oder bei Interesse, einen Workshop zu leiten, zögere nicht, dich in unserem Matrix-Raum
 [`#allgemein:chaos.jetzt`](https://matrix.to/#/#allgemein:chaos.jetzt) zu melden, uns im Fediverse unter
