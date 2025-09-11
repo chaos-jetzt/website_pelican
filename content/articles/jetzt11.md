@@ -2,6 +2,9 @@ Title: Geekend #jetzt11 in Frankfurt
 Date: 2025-08-31
 Category: Ankündigung
 Tags: jetzt11
+slug: jetzt11
+lang: de
+DEFAULT_LANG: de
 Author: yu
 Headline: Vom 07.11 bis 09.11.2025 im CCC FFM 
 
