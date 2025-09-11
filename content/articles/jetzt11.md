@@ -37,4 +37,4 @@ Wir freuen uns darauf, dich beim Geekend zu sehen!
 
 [^1]: Aus rechtlichen und organisatorischen Gründen können wir Übernachtungen leider erst ab 18 Jahren anbieten. Wenn das ein Problem ist, melde dich bitte bei uns.
 
-englisch version [here](https://dev.chaos.jetzt/pages/jetzt11en.html)
+englisch version [here](https://chaos.jetzt/pages/jetzt11en.html)
