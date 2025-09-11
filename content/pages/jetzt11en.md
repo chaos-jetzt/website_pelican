@@ -29,7 +29,7 @@ If you are between the ages of 18 and 25 [^1] and are interested in participatin
 * **Ticket without accommodation** for anyone who already has accommodation in Frankfurt or the surrounding area 
 
 
-This year, we are distributing tickets in two waves and have a FLINTA* quota to enable as many people as possible to participate:
+This year, we're doing things a little differently. We're going to distribute tickets in two waves so more new folks can join in the fun.
 
 
 * **First wave:** from September 13, activation at 7:42 p.m.
