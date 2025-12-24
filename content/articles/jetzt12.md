@@ -9,7 +9,7 @@ Das nächste chaos.jetzt-Geekend #jetzt12 steht vor der Tür! Vom 20. bis 22. Fe
 
 ## Was erwartet euch?
 
-Taucht ein in ein interaktives Wochenende! Ihr bringt die Themen, wir den Raum: In den Räumen des CCC Flensburg gestalten wir gemeinsam Workshops, Talks, gemeinsames Essen und Diskussionen rund um Technik und (Netz-)Politik. Neben dem Programm geht es darum, Verbindungen zu knüpfen, Netze zu stärken und Banden zu bilden. Freitag starten wir mit der Programmplanung, danach folgen zwei Tage voller Input und Austausch. Wir stellen euch einen Ruheraum und Vertrauenspersonen zur Verfügung. Falls ihr in Flensburg wohnt oder dort eine Übernachtungsmöglichkeit habt - super! Falls nicht ist das auch kein Problem, wir haben das Hostel "Flensbed" für das 
+Taucht ein in ein interaktives Wochenende! Ihr bringt die Themen, wir den Raum: In den Räumen des CCC Flensburg gestalten wir gemeinsam Workshops, Talks, gemeinsames Essen und Diskussionen rund um Technik und (Netz-)Politik. Neben dem Programm geht es darum, Verbindungen zu knüpfen, Netze zu stärken und Banden zu bilden. Freitag starten wir mit der Programmplanung, danach folgen zwei Tage voller Input und Austausch. Wir stellen euch einen Ruheraum und Vertrauenspersonen zur Verfügung. Falls ihr in Flensburg wohnt oder dort eine Übernachtungsmöglichkeit habt - super! Falls nicht ist das auch kein Problem, wir haben das Hostel "Flensbed" für das Wochenende.
 
 
 ## Ich will teilnehmen!
