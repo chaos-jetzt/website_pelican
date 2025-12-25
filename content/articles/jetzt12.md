@@ -1,5 +1,5 @@
 Title: Anker werfen zum #jetzt12 Geekend in Flensburg
-Date: 2025-08-31
+Date: 2025-12-25
 Category: Ankündigung
 Tags: jetzt12
 Author: simono, tarva
