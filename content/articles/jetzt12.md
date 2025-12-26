@@ -4,6 +4,8 @@ Category: Ankündigung
 Tags: jetzt12
 Author: simono, tarva
 Headline: 20.02.26 - 22.02.26 zu Gast beim CCC Flensburg
+url: 12/
+save_as: articles/jetzt12.html
 
 Das nächste chaos.jetzt-Geekend #jetzt12 steht vor der Tür! Vom 20. bis 22. Februar 2026 treffen wir uns in Flensburg, um gemeinsam ein Wochenende voller Austausch, Ideen zu erleben. Nach unserem Treffen im Knotenpunkt FFM wollen wir diesmal die Netze im Norden stärken, wo der Hafen Flensburgs für maritime Vibes und frischen Wind sorgt.
 
