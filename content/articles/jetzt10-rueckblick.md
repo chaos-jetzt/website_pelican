@@ -1,4 +1,8 @@
-Title: Rückblick: #jetzt10 in Braunschweig Date: 2025-10-23 Category: bericht Tags: jetzt10, bericht Authors: kory314, ledge, misk Headline: Das #jetzt10-Geekend in der Löwenstadt Braunschweig im Stratum0
+Title: Rückblick: #jetzt10 in Braunschweig
+Date: 2025-10-23
+Category: bericht
+Tags: jetzt10, bericht Authors: kory314, ledge, misk
+Headline: Das #jetzt10-Geekend in der Löwenstadt Braunschweig im Stratum0
 
 Vom 29. bis zum 31. August fand das elfte chaos.jetzt-Geekend statt. Die Räumlichkeiten wurden vom Stratum0 in Braunschweig zur Verfügung gestellt.
 
