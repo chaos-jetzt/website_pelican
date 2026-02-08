@@ -24,7 +24,7 @@ Du bist 18-25 Jahre alt bist[^1] und hast Bock auf Technik und Gesellschaft? Dan
 
 Wie immer gibt es zwei Ticketkategorien:
 
-- Ticket mit Übernachtung im Hostel "Flensbed" (etwa 25 Gehminuten)
+- Ticket mit Übernachtung im Hostel "Seemannsheim" (etwa 25 Gehminuten)
 - Ticket ohne Übernachtung für alle, die bereits eine Unterkunft in Flensburg oder Umgebung haben
 
 Es gibt zwei Vorverkaufstermine zu denen Tickets verfügbar gemacht werden. Das machen wir um unsere begrenzten Tickets möglichst fair zu verteilen.
