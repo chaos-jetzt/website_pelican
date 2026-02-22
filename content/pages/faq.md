@@ -8,7 +8,7 @@ Wenn noch Fragen offen geblieben sind, kannst du uns gerne auf [Mastodon](https:
 
 
 **Was ist chaos.jetzt?**  
-Chaos.jetzt ist die Jugendgruppe (oder eher eine Gruppe von jungen Menschen) im CCC bzw. der Chaos Welt für 14- bis 25-Jährige (und seltener auch bis 27-Jährige).
+Chaos.jetzt ist die Jugendgruppe (oder eher eine Gruppe von jungen Menschen) im CCC bzw. der Chaos Welt für 18- bis 25-Jährige.
 
 **Wie nehme ich daran teil?**  
 Wir organisieren uns hauptsächlich in [unserem Matrix-Space](https://matrix.to/#/#chaos.jetzt:chaos.jetzt?via=chaos.jetzt),
