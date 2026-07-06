@@ -4,8 +4,6 @@ Date: 2026-07-07
 Category: Ankündigung
 Tags: jetzt14
 Authors: Empanadita, ruru4143
-url: 14/tickets
-save_as: 14/tickets.html
 
 Die erste Ticketverkaufswelle für #jetzt14 findet schon diesen Mittwoch um 19:00 im [chaos.jetzt Ticketshop](https://tickets.chaos.jetzt/) statt. Die Zweite am 11. Juli um 13:00. 
 Dieser Blogpost komm ein bischen später als angekündigt, in ihm findest du ein paar Tipps zum erfolgreichen Ticketklicken und eine Übersicht über die verschiedenen Ticketkontingente.
