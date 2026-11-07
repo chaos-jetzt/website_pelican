@@ -46,7 +46,7 @@ AUTHOR_FEED_RSS = None
 MENUITEMS = (('Geekendübersicht', 'https://wiki.chaos.jetzt/geekendliste" target="_blank'),
              ('FAQ', '/pages/faq.html'),
              ('wiki', 'https://wiki.chaos.jetzt" target="_blank'),
-             ('Code of Conduct', '/pages/coc.html'),
+             ('Code of Conduct', 'https://wiki.chaos.jetzt/code-of-conduct" target="_blank'),
              ('mastodon', 'https://chaos.social/@jetzt" target="_blank" rel="me'),
 )
 
